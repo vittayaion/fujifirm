@@ -1,0 +1,30 @@
+
+.container{
+    padding: 40px;
+    background-color: #FFF;
+}
+
+.twocard{
+    padding: 40px;
+}
+#first{
+  padding-top: 40px;
+  background-color: #cb4040;
+}
+
+#final{
+    background-color: #696969;
+}
+
+body {
+    font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif;
+    color: #001A33;
+    webkit-tap-highlight-color: #222;
+    top:0;
+}
+ul{
+  padding-right:20px
+}
+li{
+  font-size: 140%;
+}
